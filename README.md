@@ -16,11 +16,7 @@ The first part of the workshop will focus on the necessity for reproducible appr
 
 The second half of the workshop will be focused on version control, GitHub and using it with RStudio.  
 
- will go over useful resources and functionality from packages that are commonly used.  
-
-I will then provide an overview of a recently published study that used [citizen science data to model associations between climate and land cover, and bird species occupancy](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.06075). For complete details of the code and analysis associated with this study, please use the following [link](https://github.com/vjjan91/eBirdOccupancy).  
-
-We will then spend some time learning the basics of GitHub and how to implement a reproducible study using R and Git.    
+Towards the end, we will go over useful resources and functionality from packages that are commonly used.  
 
 ### Workshop materials
 
