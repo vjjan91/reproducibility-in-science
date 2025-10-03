@@ -20,5 +20,5 @@ Towards the end, we will go over useful resources and functionality from package
 
 ### Workshop materials
 
-*in progress* - come back late -test
+*in progress* - come back later
 
