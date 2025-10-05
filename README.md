@@ -1,7 +1,7 @@
 ## Reproducible Scientific Practices for Conservation Biologists and Ecologists
 
 This repository was initially created to collate materials for a workshop on Reproducible Scientific Practices for Conservation Biologists at the Student Conference in Conservation Science, New York.  
-
+<adding some other text>
 ### Pre-workshop instructions  
 
 1. Please bring your own device, preferably with [R/RStudio](https://www.rstudio.com/) installed.  
