@@ -14,15 +14,15 @@ This repository hosts materials for a workshop on Reproducible Scientific Practi
 
 ![](figs/terminal-screenshot-finding-git.png)
 
-2.  Do you get an error that says: `git: command not found`. If yes, close RStudio and redownload and install Git from the link provided above. Once you are done installing it successfully, open RStudio and try the above command in the Terminal pane `which git` again.
+2.  Do you get an error that says: `git: command not found`. If yes, close RStudio and redownload and install [Git](https://git-scm.com/downloads). Once you are done installing it successfully, open RStudio and try the above command in the Terminal pane `which git` again.
 
 3.  If you don't see any error yet, please double-check to ensure that the paths shown on Terminal for where git is located is the same as where RStudio is finding it. See screenshots below.
 
 ![](figs/rstudio-check-git-paths.png)
 
-4.**MacOS users:** might encounter other errors when you type `which git`. If you get an immediate offer to install command line developer tools. Yes, you should accept the license agreement and click Install. Once installation is completed, please close RStudio and restart RStudio and go to Terminal and type `xcode-select -p`. When you hit enter, you should see `/Library/Developer/CommandLineTools`. Now type ```which git``` and redo the above Step 3.  
+4.  **MacOS users:** might encounter other errors when you type `which git`. If you get an immediate offer to install command line developer tools. Yes, you should accept the license agreement and click Install. Once installation is completed, please close RStudio and restart RStudio and go to Terminal and type `xcode-select -p`. When you hit enter, you should see `/Library/Developer/CommandLineTools`. Now type ```which git``` and redo the above Step 3.
 
-5. If you don't get an automatic message to install Command Line Tools, close RStudio. Then go to https://developer.apple.com/download/ and download Command Line tools for your OS version. Once installation is completed, please restart RStudio and go to Terminal and type `xcode-select -p`. When you hit enter, you should see `/Library/Developer/CommandLineTools`. Now type ```which git``` and redo the above Step 3.  
+5.  If you don't get an automatic message to install Command Line Tools, close RStudio. Then go to https://developer.apple.com/download/ and download Command Line tools for your OS version. Once installation is completed, please restart RStudio and go to Terminal and type `xcode-select -p`. When you hit enter, you should see `/Library/Developer/CommandLineTools`. Now type ```which git``` and redo the above Step 3.  
 
 If you encounter any other installation errors, please contact me.  
 
