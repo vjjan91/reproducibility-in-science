@@ -1,24 +1,39 @@
-## Reproducible Scientific Practices for Conservation Biologists and Ecologists
+## Reproducible Scientific Practices for Conservation Biologists  
 
-This repository was initially created to collate materials for a workshop on Reproducible Scientific Practices for Conservation Biologists at the Student Conference in Conservation Science, New York.  
+This repository hosts materials for a workshop on Reproducible Scientific Practices for Conservation Biologists at the Student Conference in Conservation Science, New York 2025.  
 
-### Pre-workshop instructions  
+### Pre-workshop instructions
 
-1. Please bring your own device, preferably with [R/RStudio](https://www.rstudio.com/) installed.  
-2. Create a account on [GitHub](https://github.com/) - it's free!. Please note that when you are creating a GitHub account for the first time, I would recommend that you _do not_ click the 'Continue with Google' option and instead manually enter your email address, set a password and username. Else, if you used one of your gmail addresses automatically, please ensure that you set a password for your account.      
-3. Download and install [Git](https://git-scm.com/downloads). 
+1.  Please bring your own device, preferably with [R/RStudio](https://www.rstudio.com/) installed.\
+2.  Create a account on [GitHub](https://github.com/) - it's free!. Please note that when you are creating a GitHub account for the first time, I would recommend that you *do not* click the 'Continue with Google' option and instead manually enter your email address, set a password and username. Else, if you used one of your gmail addresses automatically, please ensure that you set a password for your account.\
+3.  Download and install [Git](https://git-scm.com/downloads).
 
-Besides the above three steps, you do not need to do anything else. We will do the rest during the workshop!
+#### Check if you installed Git correctly
 
-### Workshop details  
+1.  Please go to RStudio and open the Terminal pane and type in the following: `which git`
 
-The first part of the workshop will focus on the necessity for reproducible approaches in conservation biology, followed by an introduction to data management, organization, and file naming conventions.  
+![](figs/terminal-screenshot-finding-git.png)
 
-The second half of the workshop will be focused on version control, GitHub and using it with RStudio.  
+2.  Do you get an error that says: `git: command not found`. If yes, close RStudio and redownload and install Git from the link provided above. Once you are done installing it successfully, open RStudio and try the above command in the Terminal pane `which git` again.
 
-Towards the end, we will go over useful resources and functionality from packages that are commonly used.  
+3.  If you don't see any error yet, please double-check to ensure that the paths shown on Terminal for where git is located is the same as where RStudio is finding it. See screenshots below.
+
+![](figs/rstudio-check-git-paths.png)
+
+4.**MacOS users:** might encounter other errors when you type `which git`. If you get an immediate offer to install command line developer tools. Yes, you should accept the license agreement and click Install. Once installation is completed, please close RStudio and restart RStudio and go to Terminal and type `xcode-select -p`. When you hit enter, you should see `/Library/Developer/CommandLineTools`. Now type ```which git``` and redo the above Step 3.  
+
+5. If you don't get an automatic message to install Command Line Tools, close RStudio. Then go to https://developer.apple.com/download/ and download Command Line tools for your OS version. Once installation is completed, please restart RStudio and go to Terminal and type `xcode-select -p`. When you hit enter, you should see `/Library/Developer/CommandLineTools`. Now type ```which git``` and redo the above Step 3.  
+
+If you encounter any other installation errors, please contact me.  
+
+### Workshop details
+
+The first part of the workshop will focus on the necessity for reproducible approaches in conservation biology, followed by an introduction to data management, organization, and file naming conventions.
+
+The second half of the workshop will be focused on version control, GitHub and using it with RStudio.
+
+Towards the end, we will go over useful resources and functionality from packages that are commonly used.
 
 ### Workshop materials
 
 *in progress* - will be added later
-
