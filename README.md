@@ -10,15 +10,15 @@ This repository hosts materials for a workshop on Reproducible Scientific Practi
 
 ### Check if you installed Git correctly
 
-1.  Please go to RStudio and open the Terminal pane and type in the following: `which git`
+1.  Please go to RStudio and open the **Terminal** pane and type in the following: `which git`
 
-![](figs/terminal-screenshot-finding-git.png)
+![](figs/terminal-rstudio-which-git.png)
 
 2.  Do you get an error that says: `git: command not found`. If yes, close RStudio and redownload and install [Git](https://git-scm.com/downloads). Once you are done installing it successfully, open RStudio and try the above command in the Terminal pane `which git` again. **MacOS Users**: please see Step 4 below.  
 
-3.  If you don't see any error yet, please double-check to ensure that the paths shown on Terminal for where git is located is the same as where RStudio is finding it. See screenshots below.
+3.  If you don't see any error yet, please double-check to ensure that the paths shown on Terminal for where git is located is the same as where RStudio is finding it. See screenshots below. Please note that you only need to ensure that both paths have ```.../bin/git```. You don't have to worry about other content in the paths.    
 
-![](figs/rstudio-check-git-paths.png)
+![](figs/rstudio-git-path-matching.png)
 
 4.  **MacOS users:** might encounter other errors when you type `which git`. If you get an immediate offer to install command line developer tools. Yes, you should accept the license agreement and click Install. Once installation is completed, please close RStudio and restart RStudio and go to Terminal and type `xcode-select -p`. When you hit enter, you should see `/Library/Developer/CommandLineTools`. Now type ```which git``` and redo the above Step 3.
 
