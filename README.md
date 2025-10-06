@@ -4,17 +4,17 @@ This repository hosts materials for a workshop on Reproducible Scientific Practi
 
 ### Pre-workshop instructions
 
-1.  Please bring your own device, preferably with [R/RStudio](https://www.rstudio.com/) installed.\
-2.  Create a account on [GitHub](https://github.com/) - it's free!. Please note that when you are creating a GitHub account for the first time, I would recommend that you *do not* click the 'Continue with Google' option and instead manually enter your email address, set a password and username. Else, if you used one of your gmail addresses automatically, please ensure that you set a password for your account.\
+1.  Please bring your own device, preferably with [R/RStudio](https://www.rstudio.com/) installed.  
+2.  Create a account on [GitHub](https://github.com/) - it's free!. Please note that when you are creating a GitHub account for the first time, I would recommend that you *do not* click the 'Continue with Google' option and instead manually enter your email address, set a password and username. Else, if you used one of your gmail addresses automatically, please ensure that you set a password for your account.  
 3.  Download and install [Git](https://git-scm.com/downloads).
 
-#### Check if you installed Git correctly
+### Check if you installed Git correctly
 
 1.  Please go to RStudio and open the Terminal pane and type in the following: `which git`
 
 ![](figs/terminal-screenshot-finding-git.png)
 
-2.  Do you get an error that says: `git: command not found`. If yes, close RStudio and redownload and install [Git](https://git-scm.com/downloads). Once you are done installing it successfully, open RStudio and try the above command in the Terminal pane `which git` again.
+2.  Do you get an error that says: `git: command not found`. If yes, close RStudio and redownload and install [Git](https://git-scm.com/downloads). Once you are done installing it successfully, open RStudio and try the above command in the Terminal pane `which git` again. **MacOS Users**: please see Step 4 below.  
 
 3.  If you don't see any error yet, please double-check to ensure that the paths shown on Terminal for where git is located is the same as where RStudio is finding it. See screenshots below.
 
@@ -36,4 +36,8 @@ Towards the end, we will go over useful resources and functionality from package
 
 ### Workshop materials
 
-*in progress* - will be added later
+*in progress* - will be added later  
+
+### Acknowledgements and attributions  
+
+to be added
