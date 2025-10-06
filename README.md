@@ -12,7 +12,7 @@ This repository hosts materials for a workshop on Reproducible Scientific Practi
 
 1.  Please go to RStudio and open the **Terminal** pane and type in the following: `which git`
 
-![](figs/which-git)
+![](figs/which-git.gif)
 
 2.  Do you get an error that says: `git: command not found`. If yes, close RStudio and redownload and install [Git](https://git-scm.com/downloads). Once you are done installing it successfully, open RStudio and try the above command in the Terminal pane `which git` again. **MacOS Users** might encounter a different error. Please see Step 4 below.  
 
