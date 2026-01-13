@@ -1,7 +1,5 @@
 ## Reproducible Scientific Practices for Conservation Biologists
 
-This repository hosts materials for a workshop on Reproducible Scientific Practices for Conservation Biologists at the Student Conference in Conservation Science, New York 2025.
-
 ### Pre-workshop instructions
 
 1.  Please bring your own device, preferably with [RStudio](https://posit.co/products/open-source/rstudio/?sid=1) installed.
