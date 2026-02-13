@@ -3,7 +3,7 @@
 ### Pre-workshop instructions
 
 1.  Please bring your own device, preferably with [RStudio](https://posit.co/products/open-source/rstudio/?sid=1) installed. It is recommended that users update their R/RStudio to the most recent version to avoid any errors. Please click these links to update R on [Windows](https://youtu.be/MzZXFG7ZcVM?t=5) and [Mac](https://youtu.be/MzZXFG7ZcVM?t=539).  
-2.  Create a account on [GitHub](https://github.com/) - it's free!. Please note that when you are creating a GitHub account for the first time, I would recommend that you *do not* click the 'Continue with Google' option and instead manually enter your email address, set a password and username. Else, if you used one of your gmail addresses automatically, please ensure that you set a password for your account.
+2.  Create a account on [GitHub](https://github.com/) - it's free!. Please note that when you are creating a GitHub account for the first time, please **do not** click the 'Continue with Google' option and instead manually enter your email address, set a password and username. Else, if you used one of your gmail addresses automatically, please ensure that you set a password for your account.
 3.  Download and install [Git](https://git-scm.com/downloads).
 
 ### Check if you installed Git correctly
@@ -14,7 +14,7 @@
 
 2.  Do you get an error that says: `git: command not found`. If yes, close RStudio and redownload and install [Git](https://git-scm.com/downloads). Once you are done installing it successfully, open RStudio and try the above command in the Terminal pane again: `which git` or `where git` (depending on your Windows machine, `where` might work rather than `which`). **MacOS Users** might encounter a different error. Please see Step 4 below.
 
-3.  If you don't see any error yet, please double-check to ensure that the paths shown on Terminal for where git is located is the same as where RStudio is finding it. Please note that you only need to ensure that both paths have `/bin/git` or `/git`. You don't have to worry about other content in the paths (sometimes the `/bin` may not appear depending on the computer).  
+3.  If you don't see any error yet, please double-check to ensure that the paths shown on Terminal for where git is located is the same as where RStudio is finding it. Please note that you only need to ensure that both paths have `/bin/git` or `/git`. You don't have to worry about other content in the paths. Sometimes the `/bin` may not appear depending on the computer but should atleast see a `/git` to learn that your installation has been successful.    
 
 ![](figs/rstudio-git-path-matching.png)
 
