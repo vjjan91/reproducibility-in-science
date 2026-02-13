@@ -2,7 +2,7 @@
 
 ### Pre-workshop instructions
 
-1.  Please bring your own device, preferably with [RStudio](https://posit.co/products/open-source/rstudio/?sid=1) installed.
+1.  Please bring your own device, preferably with [RStudio](https://posit.co/products/open-source/rstudio/?sid=1) installed. It is recommended that users update their R/RStudio to the most recent version to avoid any errors. Please click these links to update R on [Windows](https://youtu.be/MzZXFG7ZcVM?t=5) and [Mac](https://youtu.be/MzZXFG7ZcVM?t=539).  
 2.  Create a account on [GitHub](https://github.com/) - it's free!. Please note that when you are creating a GitHub account for the first time, I would recommend that you *do not* click the 'Continue with Google' option and instead manually enter your email address, set a password and username. Else, if you used one of your gmail addresses automatically, please ensure that you set a password for your account.
 3.  Download and install [Git](https://git-scm.com/downloads).
 
