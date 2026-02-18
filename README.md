@@ -19,7 +19,7 @@ It's a two-step process. First, you need to install [Homebrew](https://brew.sh/)
 Option 1 and Option 2 provided below:
 ![](figs/homebrew-page.png)
 
-For Option 2, click the red box highlighted:
+For Option 2, scroll down to the bottom of the page and click the red box highlighted to download Homebrew manually:
 ![](figs/homebrew-pkg-link.png)
 
 Now you can proceed to the next step! 
