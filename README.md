@@ -4,7 +4,7 @@
 
 1.  Please bring your own device, preferably with [RStudio](https://posit.co/products/open-source/rstudio/?sid=1) installed. It is recommended that users update their R/RStudio to the most recent version to avoid any errors. Please click these links to update R on [Windows](https://youtu.be/MzZXFG7ZcVM?t=5) and [Mac](https://youtu.be/MzZXFG7ZcVM?t=539).  
 2.  Create a account on [GitHub](https://github.com/) - it's free!. Please note that when you are creating a GitHub account for the first time, please **do not** click the 'Continue with Google' option and instead manually enter your email address, set a password and username. Else, if you used one of your gmail addresses automatically, please ensure that you set a password for your account.
-3.  Download and install [Git](https://git-scm.com/downloads). Before you start this step, please close R and RStudio.    
+3.  Download and install [Git](https://git-scm.com/downloads). Before you start this step, please close R and RStudio. For Step 3 alone, the process can vary for Windows and Mac systems. Please see below.
 
 **Windows Users**
 
@@ -22,7 +22,7 @@ Option 1 and Option 2 provided below:
 For Option 2, click the red box highlighted:
 ![](figs/homebrew-pkg-link.png)
 
-Once you are done with that, please follow the instructions to download and install Git. For Windows users, you do not need HomeBrew.   
+Now you can proceed to the next step! 
 
 ### Check if you installed Git correctly
 
