@@ -14,7 +14,7 @@ When you click the download link for Git above, it will take you to the page bel
 
 **MacOS Users**
 
-It's a two-step process. First, you need to install [Homebrew](https://brew.sh/) first using your terminal or by downloading the .pkg file (both options are available through the link above). Option 1 will require you to use your Terminal on Mac and Option 2 requires a manual download and installation. The second screenshot provides an image of the page you will encounter if you try Option 2. Once you are done with either Option 1 or Option 2, please go back to the [Git](https://git-scm.com/downloads) downloads link and follow instructions for homebrew using your terminal. You need to copy `brew install git` and paste it in your terminal for the installation to be completed.  
+It's a two-step process. First, you need to install [Homebrew](https://brew.sh/) first using your terminal (Type cmd + spacebar to access terminal on a mac) or by downloading the .pkg file (both options are available through the link above). Option 1 will require you to use your Terminal on Mac and Option 2 requires a manual download and installation. The second screenshot provides an image of the page you will encounter if you try Option 2. Once you are done with either Option 1 or Option 2, please go back to the [Git](https://git-scm.com/downloads) downloads link and follow instructions for homebrew using your terminal. You need to copy `brew install git` and paste it in your terminal for the installation to be completed.  
 
 Option 1 and Option 2 provided below:
 ![](figs/homebrew-page.png)
