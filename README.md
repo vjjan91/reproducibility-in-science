@@ -14,15 +14,15 @@ When you click the download link for Git above, it will take you to the page bel
 
 **MacOS Users**
 
-It's a two-step process. First, you need to install [Homebrew](https://brew.sh/) first using your terminal (Type cmd + spacebar to access terminal on a mac) or by downloading the .pkg file (both options are available through the link above). Option 1 will require you to use your Terminal on Mac and Option 2 requires a manual download and installation. The second screenshot provides an image of the page you will encounter if you try Option 2. Once you are done with either Option 1 or Option 2, please go back to the [Git](https://git-scm.com/downloads) downloads link and follow instructions for homebrew using your terminal. You need to copy `brew install git` and paste it in your terminal for the installation to be completed.  
+It's a two-step process. First, you need to install [Homebrew](https://brew.sh/) using your terminal (Type cmd + spacebar to access terminal on a mac) or by downloading the .pkg file (both options are available through the link above). Option 1 will require you to use your Terminal on Mac and Option 2 requires a manual download and installation. The second screenshot provides an image of the page you will encounter if you try Option 2. Once you are done with either Option 1 or Option 2, please go back to the [Git](https://git-scm.com/downloads) downloads link and follow instructions for Homebrew using your terminal. Once Homebrew is installed, you need to type `brew install git` and paste it in your terminal for the installation of Git to be completed.  
 
-Option 1 and Option 2 provided below:
+Option 1:
 ![](figs/homebrew-page.png)
 
-For Option 2, scroll down to the bottom of the page and click the red box highlighted to download Homebrew manually:
+For Option 2, when you click `Homebrew's latest GitHub release`, it will take you to a page on GitHub. You should scroll down to the bottom of the page and click the red box highlighted to download Homebrew manually:
 ![](figs/homebrew-pkg-link.png)
 
-Now you can proceed to the next step! 
+Now please remember that after you install Homebrew, you need to type `brew install git` and paste it in your terminal for the installation of Git to be completed. 
 
 ### Check if you installed Git correctly
 
