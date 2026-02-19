@@ -32,7 +32,7 @@ Now you can proceed to the next step!
 
 2.  Do you get an error that says: `git: command not found`. If yes, close RStudio and redownload and install [Git](https://git-scm.com/downloads). Once you are done installing it successfully, open RStudio and try the above command in the Terminal pane again: `which git` or `where git` (depending on your Windows machine, `where` might work rather than `which`). **MacOS Users** might encounter a different error. Please see Step 4 below.
 
-3.  If you don't see any error yet, please double-check to ensure that the paths shown on Terminal for where git is located is the same as where RStudio is finding it. Please note that you only need to ensure that both paths have `/bin/git` or `/git`. You don't have to worry about other content in the paths. Sometimes the `/bin` may not appear depending on the computer but should atleast see a `/git` to learn that your installation has been successful.    
+3.  If you don't see any error yet, please double-check to ensure that the paths shown on Terminal for where git is located is the same as where RStudio is finding it. To do this, please click on Tools-> Global Options-> Git/SVN. Please note that you only need to ensure that both paths have `/bin/git` or `/git`. You don't have to worry about other content in the paths. Sometimes the `/bin` may not appear depending on the computer but should atleast see a `/git` to learn that your installation has been successful.    
 
 ![](figs/rstudio-git-path-matching.png)
 
