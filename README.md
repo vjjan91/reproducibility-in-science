@@ -22,7 +22,7 @@ Option 1:
 For Option 2, when you click `Homebrew's latest GitHub release`, it will take you to a page on GitHub. You should scroll down to the bottom of the page and click the red box highlighted to download Homebrew manually:
 ![](figs/homebrew-pkg-link.png)
 
-Now please remember that after you install Homebrew, you need to type `brew install git` and paste it in your terminal for the installation of Git to be completed. 
+Now please remember that after you install Homebrew, you need to type `brew install git` in your terminal for the installation of Git to be completed. 
 
 ### Check if you installed Git correctly
 
